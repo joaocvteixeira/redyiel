@@ -23,4 +23,4 @@ _Então assim estou fazendo, todo dia estudando um pouco depois de um cansativo 
 
 ## 📞 Contato do perfil
 
-E-mail: joaocarlosvianateixeira@outlook.com
+E-mail: joaocvteixeira@outlook.com
