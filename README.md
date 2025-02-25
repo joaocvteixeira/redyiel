@@ -3,8 +3,6 @@
 Olá, sou **João Teixeira**! Sou um acadêmico de **Defesa Cibernética** na [Estácio](estácio.br), e complemento meus estudos na [DIO](https://www.dio.me/)!
 _Porque eu tou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓🤫_
 
-- ♈️ 22 Anos (21/03)
-
 *Você pode encontrar minha localização e minhas redes em baixo da minha foto de perfil.*
 
 ## 📅 Qual o seu objetivo desse ano?
