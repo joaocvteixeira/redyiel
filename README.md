@@ -5,7 +5,7 @@ _Porque eu tou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
 
 *Você pode encontrar minha localização e minhas redes em baixo da minha foto de perfil.*
 
-## 📅 Qual o seu objetivo desse ano?
+## 📅 Qual o objetivo desse perfil para esse ano?
 
 Atualmente estou me dedicando a ser fullstack área de Desenvolvimento Web! Dado isso minhas metas nessa linha do tempo enquanto me formo na faculdade é:
 
@@ -21,6 +21,6 @@ Atualmente estou me dedicando a ser fullstack área de Desenvolvimento Web! Dado
 
 _Então assim estou fazendo, todo dia estudando um pouco depois de um cansativo e satisfatório treino de Muay Thai (afinal aptidão física e conhecimento completo é um combo que quero para minha pessoa)_
 
-## 📞 Contato
+## 📞 Contato do perfil
 
 E-mail: joaocarlosvianateixeira@outlook.com
