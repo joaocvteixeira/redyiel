@@ -21,7 +21,7 @@ Atualmente estou me dedicando a ser fullstack área de Desenvolvimento Web! Dado
 - Me formar na Formação PHP Experience da DIO
 - Me formar na Formaçaõ SQL Database Experience da DIO
 
-_Então assim estou fazendo, todo dia estudando um pouco depois de um cansativo e satisfatório treino de Muay Thai (afinal aptidão física e conhecimento completo é um combo que quero pra minha pessoa)_
+_Então assim estou fazendo, todo dia estudando um pouco depois de um cansativo e satisfatório treino de Muay Thai (afinal aptidão física e conhecimento completo é um combo que quero para minha pessoa)_
 
 ## 📞 Contato
 
