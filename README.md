@@ -9,7 +9,7 @@ _Porque eu tou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
 
 Atualmente estou me dedicando a ser fullstack área de Desenvolvimento Web! Dado isso minhas metas nessa linha do tempo enquanto me formo na faculdade é:
 
-- Me formar na Formação GitHub Certification da DIO 
+- ✅ [Formação GitHub Certification da DIO Concluída](https://hermes.dio.me/certificates/BKONMZIO.pdf)
 > _Porquê começar no GitHub? Almejo documentar todo meu conhecimento e usar de portfólio, e pensei, porque não o dominar logo?_
 - Finalizar o curso Pensamento Computacional da DIO
 - Me formar na Formação Lógica de Programação da DIO
