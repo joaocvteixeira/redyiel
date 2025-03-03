@@ -13,11 +13,12 @@ _Porque eu tou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
 - 🧮 [Código de Operações Matématicas em Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/ope_mat.py)
 - 🔄 [Código de Repetição de Texto em Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/repet_txt.py)
 - 🔢 [Código de Checagem de Par ou Ímpar em Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/par_impar.py)
-- 3️⃣ [Código de Cáclculo de Média](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/media_tres.py)
+- 3️⃣ [Código de Cáclculo de Média em Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/media_tres.py)
 
 ## 🎓 Formações concluídas desse perfil?
 
 - ✅ [Formação GitHub Certification da DIO](https://hermes.dio.me/certificates/BKONMZIO.pdf)
+> Adquiri habilidades no uso do Git e GitBash, além de me tornar proficiente no GitHub e em suas diversas ferramentas, como o GitHub Copilot, GitHub Codespaces, GitHub Projects, entre outras. Também adquiri conhecimentos em Markdown, fundamentais para a documentação e formatação de projetos. Além disso, aprendi o básico de Python para a entrega de projetos e desenvolvi competências em trabalho em equipe, colaboração em projetos e gestão de repositórios, entre outras habilidades essenciais. _Minha professora foi a [Aline Antunes](https://github.com/alinealien)_
 
 ## 📅 Cursos e formações previstos para serem concluídos em 2025?
 
