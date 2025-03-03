@@ -1,22 +1,23 @@
-## 💭 De quem é esse perfil?
+## 💭 Whose profile is this?
 
-Olá, sou **João Teixeira**! Sou um acadêmico de **Defesa Cibernética** na [Estácio](estácio.br), e complemento meus estudos na [DIO](https://www.dio.me/)!  
-_Porque eu tou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓🤫_
+Hi, I'm **João Teixeira**! I'm a **Cybersecurity** student at [Estácio](estácio.br), and I'm completing my studies at [DIO](https://www.dio.me/)!
 
-*Você pode encontrar minha localização e minhas redes em baixo da minha foto de perfil.*
+_Why am I in this career? I really liked Mr. Robot and Watch Dogs... 🤓🤫_
 
-## 📅 Qual o objetivo desse perfil para esse ano?
+*You can find my location and my networks below my profile picture.*
 
-Atualmente estou me dedicando a ser fullstack área de Desenvolvimento Web! Dado isso minhas metas nessa linha do tempo enquanto me formo na faculdade é:
+## 📅 What is the goal of this profile for this year?
 
-- ✅ [Formação GitHub Certification da DIO Concluída](https://hermes.dio.me/certificates/BKONMZIO.pdf)
-> _Porquê começar no GitHub? Almejo documentar todo meu conhecimento e usar de portfólio, e pensei, porque não o dominar logo?_
-- Finalizar o curso Pensamento Computacional da DIO
-- Me formar na Formação Lógica de Programação da DIO
-- Me formar na Formação HTML Web Developer da DIO
-- Me formar na Formação CSS Developer da DIO
-- Me formar na Formação Javascript Developer da DIO
-- Me formar na Formação PHP Experience da DIO
-- Me formar na Formaçaõ SQL Database Experience da DIO
+I'm currently dedicating myself to being a fullstack in the Web Development area! Given that, my goals in this timeline while I graduate from college are:
 
-_Então assim estou fazendo, todo dia estudando um pouco depois de um cansativo e satisfatório treino de Muay Thai (afinal aptidão física e conhecimento completo é um combo que quero para minha pessoa)_
+- ✅ [DIO GitHub Certification Training Completed](https://hermes.dio.me/certificates/BKONMZIO.pdf)
+> _Why start on GitHub? I want to document all my knowledge and use it as a portfolio, and I thought, why not master it right away?_
+- Finish the Computational Thinking course at DIO
+- Graduate from the Logical Programming Course at DIO
+- Graduate from the HTML Web Developer Course at DIO
+- Graduate from the CSS Developer Course at DIO
+- Graduate from the Javascript Developer Course at DIO
+- Graduate from the PHP Experience Course at DIO
+- Graduate from the SQL Database Experience Course at DIO
+
+_So that's what I'm doing, studying a little every day after a tiring and satisfying Muay Thai workout (after all, physical fitness and complete knowledge is a combo that I want for myself)_
