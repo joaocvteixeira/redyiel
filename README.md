@@ -7,7 +7,7 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
 
 ## 📜 Códigos que esse perfil já fez?
 
-- 🎲 [Código de Rolagem de Dados para RPG](https://github.com/joaocvteixeira/tormenta-20/blob/main/dados.py)
+- 🎲 [Código de Rolagem de Dados para RPG em Python](https://github.com/joaocvteixeira/tormenta-20/blob/main/dados.py)
 - ♾️ [Código de Checagem de Palindromo em Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/check_palindromo.py)
 - 🤝 [Código de Concatenar Dados em Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/concat_dados.py)
 - 🧮 [Código de Operações Matématicas em Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/ope_mat.py)
@@ -19,6 +19,8 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
 
 - ✅ [Formação GitHub Certification da DIO](https://hermes.dio.me/certificates/BKONMZIO.pdf)
 > Adquiri habilidades no uso do Git e GitBash, além de me tornar proficiente no GitHub e em suas diversas ferramentas, como o GitHub Copilot, GitHub Codespaces, GitHub Projects, entre outras. Também adquiri conhecimentos em Markdown, fundamentais para a documentação e formatação de projetos. Além disso, aprendi o básico de Python para a entrega de projetos e desenvolvi competências em trabalho em equipe, colaboração em projetos e gestão de repositórios, entre outras habilidades essenciais. _Minha professora foi a [Aline Antunes](https://github.com/alinealien)_
+
+![image](https://github.com/user-attachments/assets/a39cbe30-c46a-42f6-8bf3-3e236c889015)
 
 ## 📅 Cursos e formações previstos para serem concluídos em 2025?
 
