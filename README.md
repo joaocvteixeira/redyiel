@@ -27,8 +27,8 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
       <h2>✅ <a href="https://hermes.dio.me/certificates/BKONMZIO.pdf">Formação GitHub Certification</a></h2>
       <p>Ao concluir essa formação na plataforma DIO, adquiri habilidades no uso do Git e GitBash, além de me tornar proficiente no GitHub e em suas diversas ferramentas, como o GitHub Copilot, GitHub Codespaces, GitHub Projects, entre outras. Também adquiri conhecimentos em Markdown, fundamentais para a documentação e formatação de projetos. Além disso, aprendi o básico de Python para a entrega de projetos e desenvolvi competências em trabalho em equipe, colaboração em projetos e gestão de repositórios, entre outras habilidades essenciais. <em>Minha professora foi a <a href="https://github.com/alinealien">Aline Antunes</a>.</em></p>
     </td>
-    <td style="vertical-align: top; width: 500px;">
-      <img src="https://github.com/user-attachments/assets/a39cbe30-c46a-42f6-8bf3-3e236c889015" alt="image" width="500" style="margin-left: 20px;">
+    <td style="vertical-align: top; width: 750px;">
+      <img src="https://github.com/user-attachments/assets/a39cbe30-c46a-42f6-8bf3-3e236c889015" alt="image" width="750" style="margin-left: 20px;">
     </td>
   </tr>
 </table>
