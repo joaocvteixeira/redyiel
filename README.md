@@ -51,6 +51,8 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
   </tr>
 </table>
 
+---
+
 ## 📅 Cursos e formações previstos para serem concluídos em 2025?
 
 _Atualmente estou me dedicando a ser fullstack da área de Desenvolvimento Web! Minhas metas de estudos complementares enquanto me formo na faculdade para esse ano são:_
