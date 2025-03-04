@@ -41,12 +41,12 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
   <tr>
     <td style="vertical-align: top;">
       <strong><a href="https://hermes.dio.me/certificates/O4D0PYMO.pdf">Fundamentos de Redes de Computadores</a></strong>
-      <p>Curso que fiz para complementar a disciplina de Fundamentos de Redes de Computadores da Faculdade de Defesa Cibernética 
+      <p>Curso que fiz na Plataforma DIO para complementar meus conhecimentos sobre Segurança da Informação,
         meu professor foi o <a href="https://github.com/cassiano-dio">Cassiano Ricardo de Oliveira Peres                                            
           </a></p>
     </td>
-    <td style="vertical-align: top; width: 145px;">
-      <img src="https://github.com/user-attachments/assets/d99e052c-52a2-4e40-82fa-65abdf170a07" alt="image" width="145" style="margin-left: 20px;">
+    <td style="vertical-align: top; width: 128px;">
+      <img src="https://github.com/user-attachments/assets/d99e052c-52a2-4e40-82fa-65abdf170a07" alt="image" width="128" style="margin-left: 20px;">
     </td>
   </tr>
 </table>
