@@ -19,7 +19,7 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
 
 ---
 
-## 🎓 Cursos e formações concluídas desse perfil?
+## 🎓 Formações concluídas desse perfil?
 
 <table>
   <tr>
@@ -27,13 +27,29 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
       <strong><a href="https://hermes.dio.me/certificates/BKONMZIO.pdf">Formação GitHub Certification</a></strong>
       <p>Ao concluir essa formação na plataforma DIO, adquiri habilidades no uso do Git e GitBash, além de me tornar proficiente no GitHub e em suas diversas ferramentas, como o GitHub Copilot, GitHub Codespaces, GitHub Projects, entre outras. Também adquiri conhecimentos em Markdown, fundamentais para a documentação e formatação de projetos. Além disso, aprendi o básico de Python para a entrega de projetos e desenvolvi competências em trabalho em equipe, colaboração em projetos e gestão de repositórios, entre outras habilidades essenciais. <em>Minha professora foi a <a href="https://github.com/alinealien">Aline Antunes</a>.</em></p>
     </td>
-    <td style="vertical-align: top; width: 750px;">
-      <img src="https://github.com/user-attachments/assets/a39cbe30-c46a-42f6-8bf3-3e236c889015" alt="image" width="750" style="margin-left: 20px;">
+    <td style="vertical-align: top; width: 500px;">
+      <img src="https://github.com/user-attachments/assets/a39cbe30-c46a-42f6-8bf3-3e236c889015" alt="image" width="500" style="margin-left: 20px;">
     </td>
   </tr>
 </table>
 
 ---
+
+## 📕 Cursos concluídos desse perfil?
+
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <strong><a href="https://hermes.dio.me/certificates/O4D0PYMO.pdf">Fundamentos de Redes de Computadores</a></strong>
+      <p>Curso que fiz para complementar a disciplina de Fundamentos de Redes de Computadores da Faculdade de Defesa Cibernética 
+        meu professor foi o <a href="https://github.com/cassiano-dio">Cassiano Ricardo de Oliveira Peres                                            
+          </a></p>
+    </td>
+    <td style="vertical-align: top; width: 145px;">
+      <img src="https://github.com/user-attachments/assets/d99e052c-52a2-4e40-82fa-65abdf170a07" alt="image" width="145" style="margin-left: 20px;">
+    </td>
+  </tr>
+</table>
 
 ## 📅 Cursos e formações previstos para serem concluídos em 2025?
 
