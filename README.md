@@ -45,8 +45,8 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... ðŸ¤“ðŸ
         meu professor foi o <a href="https://github.com/cassiano-dio">Cassiano Ricardo de Oliveira Peres                                            
           </a></p>
     </td>
-    <td style="vertical-align: top; width: 128px;">
-      <img src="https://github.com/user-attachments/assets/d99e052c-52a2-4e40-82fa-65abdf170a07" alt="image" width="128" style="margin-left: 20px;">
+    <td style="vertical-align: top; width: 126px;">
+      <img src="https://github.com/user-attachments/assets/d99e052c-52a2-4e40-82fa-65abdf170a07" alt="image" width="126" style="margin-left: 20px;">
     </td>
   </tr>
 </table>
