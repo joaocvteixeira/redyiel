@@ -3,11 +3,11 @@
 Olá, sou **João Teixeira**! Tenho 23 anos e sou um acadêmico de **Defesa Cibernética** na [Estácio](estácio.br), e complemento meus estudos na [DIO](https://www.dio.me/)!  
 
 Atualmente estou aprovado nas disciplinas:
-- ⚖️ Direito Cibernético.
-- 🌐 Fundamentos de Redes de Computadores.
-- 🖥️ Gestão de Serviços de TI.
-- 🛡️ Introdução à Segurança da Informação.
-- 👥 Sistemas de Informação e Sociedade.
+- ⚖️ Direito Cibernético
+- 🌐 Fundamentos de Redes de Computadores
+- 🖥️ Gestão de Serviços de TI
+- 🛡️ Introdução à Segurança da Informação
+- 👥 Sistemas de Informação e Sociedade
 
 _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓🤫_  
 *Você pode encontrar minha localização e minhas redes em baixo da minha foto de perfil.*
@@ -36,15 +36,15 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
       </strong>
       <p>Concluí esta formação na plataforma DIO, onde adquiri competências essenciais para o uso do Git e GitBash. Tornei-me proficiente no GitHub e suas diversas ferramentas e planos, como por exemplo:</p>
       <ul>
-        <li>GitHub Codespaces;</li>
-        <li>GitHub Copilot;</li>
+        <li>GitHub Codespaces</li>
+        <li>GitHub Copilot</li>
       </ul>
       <p>Além disso, aprendi os conceitos básicos de Python, que foram fundamentais para a entrega de projetos, e desenvolvi habilidades importantes, como:</p>
       <ul>
         <li>Markdown para documentação e formatação de projetos.</li>
-        <li>Trabalho em equipe;</li>
-        <li>Colaboração em projetos;</li>
-        <li>Gestão de repositórios.</li>
+        <li>Trabalho em equipe</li>
+        <li>Colaboração em projetos</li>
+        <li>Gestão de repositórios</li>
       </ul>
       <p>Docente: 
         <a href="https://github.com/alinealien">Aline Antunes</a>.
@@ -69,12 +69,12 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
       </strong>
       <p>Realizei este curso na plataforma DIO para complementar meus conhecimentos em Segurança da Informação. Durante o aprendizado, aprofundei conceitos essenciais, como:</p>
       <ul>
-        <li>Estrutura de redes: nós, links e arquiteturas;</li>
-        <li>Modelos de conexões: cliente, servidor e P2P;</li>
-        <li>Topologias de redes: anel, barramento, estrela e malha;</li>
-        <li>Tipos de redes: LAN, MAN, SAN, VLAN e WAN;</li>
-        <li>Protocolos de redes e suas camadas: modelos e OSI e TCP/IP.</li>
-        <li>Segurança de redes: funcionamento de Proxies e VPNs;</li>
+        <li>Estrutura de redes: nós, links e arquiteturas</li>
+        <li>Modelos de conexões: cliente, servidor e P2P</li>
+        <li>Topologias de redes: anel, barramento, estrela e malha</li>
+        <li>Tipos de redes: LAN, MAN, SAN, VLAN e WAN</li>
+        <li>Protocolos de redes e suas camadas: modelos e OSI e TCP/IP</li>
+        <li>Segurança de redes: funcionamento de Proxies e VPNs</li>
       </ul>
       <p>Docente:
         <a href="https://github.com/cassiano-dio">Cassiano Ricardo de Oliveira Peres</a>.
@@ -102,4 +102,24 @@ _Atualmente estou me dedicando a ser fullstack da área de Desenvolvimento Web! 
 - ⏳ Formação PHP Experience
 - ⏳ Formação SQL Database Experience
 
-_Mais cursos podem ser adicionados ao ano se possível, então assim estou fazendo: Todo dia estudando um pouco depois de um satisfatório treino de Muay Thai (afinal aptidão física e conhecimento completo é um combo que quero para minha carreira e vida)_
+_Lista em constante atualização_
+
+---
+
+## 🔎 Mais sobre esse perfil
+
+[Experiências anteriores](https://www.linkedin.com/in/joaocvteixeira/details/experience/):
+- 🎨 Design
+- 📩 Escritório
+- 📢 Marketing
+- 💼 Vendas
+- 🗽 Tradução
+
+Situação atual _(03/2025)_:
+- 💚 Nenhuma deficiência ou incapacidade
+- 🚗 Atualmente conquistando a carteira de motorista na categoria B
+
+Atividades e hobbies:
+- 🏋🏽 Academia
+- 🎮 Jogos de Computador
+- 🥊 Muay Thai
