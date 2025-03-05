@@ -27,10 +27,11 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
       <strong>
         <a href="https://hermes.dio.me/certificates/BKONMZIO.pdf">Formação GitHub Certification</a>
       </strong>
-      <p>Concluí esta formação na plataforma DIO, onde adquiri competências essenciais para o uso do Git e GitBash. Tornei-me proficiente no GitHub e suas diversas ferramentas, como por exemplo:</p>
+      <p>Concluí esta formação na plataforma DIO, onde adquiri competências essenciais para o uso do Git e GitBash. Tornei-me proficiente no GitHub e suas diversas ferramentas e planos, como por exemplo:</p>
       <ul>
-        <li>GitHub Copilot;</li>
         <li>GitHub Codespaces;</li>
+        <li>GitHub Copilot;</li>
+        <li>GitHub Enterprise;</li>
       </ul>
       <p>Além disso, aprendi os conceitos básicos de Python, que foram fundamentais para a entrega de projetos, e desenvolvi habilidades importantes, como:</p>
       <ul>
