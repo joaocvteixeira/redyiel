@@ -1,3 +1,5 @@
+Versões do README disponíveis em [**Inglês**](https://github.com/joaocvteixeira/joaocvteixeira/blob/main/README.md) e [**Português Brasileiro**](https://github.com/joaocvteixeira/joaocvteixeira/blob/main/README-ptbr.md).
+
 ## 💭 De quem é esse perfil?
 
 Olá, sou **João Teixeira**! Tenho 23 anos, sou um acadêmico de **Defesa Cibernética** na [Estácio](estácio.br), e complemento meus estudos na [DIO](https://www.dio.me/)!  
@@ -10,7 +12,7 @@ Atualmente estou aprovado nas disciplinas:
 - 👥 Sistemas de Informação e Sociedade
 
 _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓🤫_  
-*Você pode encontrar minha localização e minhas redes em baixo da minha foto de perfil.*
+[*Você pode encontrar minha localização e minhas redes em baixo da minha foto de perfil.*](https://github.com/joaocvteixeira)
 
 ---
 
