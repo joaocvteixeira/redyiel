@@ -1,4 +1,4 @@
-Versions of README.md available in [**Brazilian Portuguese**](https://github.com/joaocvteixeira/joaocvteixeira/blob/main/README-ptbr.md) and [**English**](https://github.com/joaocvteixeira/joaocvteixeira/blob/main/README.md).
+> Versions of README.md available in [**Brazilian Portuguese**](https://github.com/joaocvteixeira/joaocvteixeira/blob/main/README-ptbr.md) and [**English**](https://github.com/joaocvteixeira/joaocvteixeira/blob/main/README.md).
 
 ## 💭 Who is this profile?
 
