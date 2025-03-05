@@ -114,8 +114,8 @@ Experiências anteriores:
 - 📢 Marketing
 - 💼 Vendas
 - 🗽 Tradução
-> [Mais informações sobre as experiências no LinkedIn](https://www.linkedin.com/in/joaocvteixeira/details/experience/)
-> [Mais informações sobre as competências registradas no LinkedIn](https://www.linkedin.com/in/joaocvteixeira/details/skills/)
+> [Mais informações sobre as experiências no LinkedIn](https://www.linkedin.com/in/joaocvteixeira/details/experience/)  
+> [Mais informações sobre as competências registradas no LinkedIn](https://www.linkedin.com/in/joaocvteixeira/details/skills/)  
 
 Situação atual _(03/2025)_:
 - 💚 Nenhuma deficiência ou incapacidade
