@@ -106,7 +106,7 @@ _Lista em constante atualização_
 
 ---
 
-## 🔎 Mais sobre esse perfil
+## 🔎 Mais informações sobre esse perfil
 
 [Experiências anteriores](https://www.linkedin.com/in/joaocvteixeira/details/experience/):
 - 🎨 Design
