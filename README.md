@@ -1,3 +1,5 @@
+Versions of README.md available in [**Brazilian Portuguese**](https://github.com/joaocvteixeira/joaocvteixeira/blob/main/README-ptbr.md) and [**English**](https://github.com/joaocvteixeira/joaocvteixeira/blob/main/README.md).
+
 ## 💭 Who is this profile?
 
 Hello, I'm **João Teixeira**! I'm 23 years old, a **Cyber Defense** student at [Estácio](estácio.br), and I complement my studies at [DIO](https://www.dio.me/)!  
@@ -10,7 +12,7 @@ Currently, I have passed the following subjects:
 - 👥 Information Systems and Society
 
 _Why am I in this career? I really liked Mr. Robot and Watch Dogs... 🤓🤫_  
-*You can find my location and my social networks below my profile picture.*
+*[You can find my location and my social networks below my profile picture.](https://github.com/joaocvteixeira)*
 
 ---
 
