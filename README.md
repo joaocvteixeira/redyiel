@@ -24,14 +24,31 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
 <table>
   <tr>
     <td style="vertical-align: top;">
-      <strong><a href="https://hermes.dio.me/certificates/BKONMZIO.pdf">Formação GitHub Certification</a></strong>
-      <p>Ao concluir essa formação na plataforma DIO, adquiri habilidades no uso do Git e GitBash, além de me tornar proficiente no GitHub e em suas diversas ferramentas, como o GitHub Copilot, GitHub Codespaces, GitHub Projects, entre outras. Também adquiri conhecimentos em Markdown, fundamentais para a documentação e formatação de projetos. Além disso, aprendi o básico de Python para a entrega de projetos e desenvolvi competências em trabalho em equipe, colaboração em projetos e gestão de repositórios, entre outras habilidades essenciais. <em>Minha professora foi a <a href="https://github.com/alinealien">Aline Antunes</a>.</em></p>
+      <strong>
+        <a href="https://hermes.dio.me/certificates/BKONMZIO.pdf">Formação GitHub Certification</a>
+      </strong>
+      <p>Concluí esta formação na plataforma DIO, onde adquiri competências essenciais para o uso do Git e GitBash. Tornei-me proficiente no GitHub e suas diversas ferramentas, como por exemplo:</p>
+      <ul>
+        <li>GitHub Copilot;</li>
+        <li>GitHub Codespaces;</li>
+      </ul>
+      <p>Além disso, aprendi os conceitos básicos de Python, que foram fundamentais para a entrega de projetos, e desenvolvi habilidades importantes, como:</p>
+      <ul>
+        <li>Markdown para documentação e formatação de projetos.</li>
+        <li>Trabalho em equipe;</li>
+        <li>Colaboração em projetos;</li>
+        <li>Gestão de repositórios.</li>
+      </ul>
+      <p>Docente: 
+        <a href="https://github.com/alinealien">Aline Antunes</a>.
+      </p>
     </td>
-    <td style="vertical-align: top; width: 500px;">
-      <img src="https://github.com/user-attachments/assets/a39cbe30-c46a-42f6-8bf3-3e236c889015" alt="image" width="500" style="margin-left: 20px;">
+    <td style="vertical-align: top; width: 120px;">
+      <img src="https://github.com/user-attachments/assets/a39cbe30-c46a-42f6-8bf3-3e236c889015" alt="Certificado" width="120" style="margin-left: 20px;">
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -52,12 +69,12 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
         <li>Protocolos de redes e suas camadas: modelos e OSI e TCP/IP.</li>
         <li>Segurança de redes: funcionamento de Proxies e VPNs;</li>
       </ul>
-      <p>O curso foi ministrado pelo professor 
+      <p>Docente:
         <a href="https://github.com/cassiano-dio">Cassiano Ricardo de Oliveira Peres</a>.
       </p>
     </td>
-    <td style="vertical-align: top; width: 126px;">
-      <img src="https://github.com/user-attachments/assets/d99e052c-52a2-4e40-82fa-65abdf170a07" alt="Certificado" width="126" style="margin-left: 20px;">
+    <td style="vertical-align: top; width: 120px;">
+      <img src="https://github.com/user-attachments/assets/d99e052c-52a2-4e40-82fa-65abdf170a07" alt="Certificado" width="120" style="margin-left: 20px;">
     </td>
   </tr>
 </table>
