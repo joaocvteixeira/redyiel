@@ -2,7 +2,7 @@
 
 ## 💭 Who is this profile?
 
-Hello, I'm **João Teixeira**! I'm 23 years old, a **Cyber Defense** student at [Estácio](estácio.br), and I complement my studies at [DIO](https://www.dio.me/)!  
+Hello, I'm **João Teixeira**! I'm 23 years old, a **Cybersecurity** student at [Estácio](estácio.br) university, and I complement my studies at [DIO](https://www.dio.me/)!  
 
 Currently, I have passed the following subjects:
 - ⚖️ Cyber Law
