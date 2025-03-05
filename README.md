@@ -31,10 +31,6 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
       <ul>
         <li>GitHub Codespaces;</li>
         <li>GitHub Copilot;</li>
-        <li>GitHub Education;</li>
-        <li>GitHub Enterprise;</li>
-        <li>GitHub Team;</li>
-        <li>Gists;</li>
       </ul>
       <p>Além disso, aprendi os conceitos básicos de Python, que foram fundamentais para a entrega de projetos, e desenvolvi habilidades importantes, como:</p>
       <ul>
