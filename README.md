@@ -1,8 +1,15 @@
 ## 💭 De quem é esse perfil?
 
 Olá, sou **João Teixeira**! Sou um acadêmico de **Defesa Cibernética** na [Estácio](estácio.br), e complemento meus estudos na [DIO](https://www.dio.me/)!  
-_Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓🤫_
 
+Atualmente estou aprovado nas disciplinas:
+- ⚖️ Direito Cibernético
+- 🌐 Fundamentos de Redes de Computadores
+- 🖥️ Gestão de Serviços de TI
+- 🛡️ Introdução à Segurança da Informação
+- 👥 Sistemas de Informação e Sociedade
+
+_Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓🤫_  
 *Você pode encontrar minha localização e minhas redes em baixo da minha foto de perfil.*
 
 ---
@@ -52,7 +59,7 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
 
 ---
 
-## 📕 Cursos concluídos desse perfil?
+## 📚 Cursos concluídos desse perfil?
 
 <table>
   <tr>
