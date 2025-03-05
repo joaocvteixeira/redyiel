@@ -102,4 +102,4 @@ _Atualmente estou me dedicando a ser fullstack da área de Desenvolvimento Web! 
 - ⏳ Formação PHP Experience
 - ⏳ Formação SQL Database Experience
 
-_Mais cursos podem ser adicionados ao ano se possível, mas então assim estou fazendo: Todo dia estudando um pouco depois de um satisfatório treino de Muay Thai (afinal aptidão física e conhecimento completo é um combo que quero para minha carreira e vida)_
+_Mais cursos podem ser adicionados ao ano se possível, então assim estou fazendo: Todo dia estudando um pouco depois de um satisfatório treino de Muay Thai (afinal aptidão física e conhecimento completo é um combo que quero para minha carreira e vida)_
