@@ -84,7 +84,11 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
       <img src="https://github.com/user-attachments/assets/d99e052c-52a2-4e40-82fa-65abdf170a07" alt="Certificado" width="120" style="margin-left: 20px;">
     </td>
   </tr>
-</table>
+</table>  
+
+---
+
+**👔 [Mais informações sobre as competências registradas no LinkedIn](https://www.linkedin.com/in/joaocvteixeira/details/skills/)**  
 
 ---
 
@@ -115,7 +119,6 @@ Experiências anteriores:
 - 💼 Vendas
 - 🗽 Tradução
 > [Mais informações sobre as experiências no LinkedIn](https://www.linkedin.com/in/joaocvteixeira/details/experience/)  
-> [Mais informações sobre as competências registradas no LinkedIn](https://www.linkedin.com/in/joaocvteixeira/details/skills/)  
 
 Situação atual _(03/2025)_:
 - 💚 Nenhuma deficiência ou incapacidade
