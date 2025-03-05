@@ -1,6 +1,6 @@
 ## 💭 De quem é esse perfil?
 
-Olá, sou **João Teixeira**! Tenho 23 anos e sou um acadêmico de **Defesa Cibernética** na [Estácio](estácio.br), e complemento meus estudos na [DIO](https://www.dio.me/)!  
+Olá, sou **João Teixeira**! Nasci em 2002, sou um acadêmico de **Defesa Cibernética** na [Estácio](estácio.br), e complemento meus estudos na [DIO](https://www.dio.me/)!  
 
 Atualmente estou aprovado nas disciplinas:
 - ⚖️ Direito Cibernético
