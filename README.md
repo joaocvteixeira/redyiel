@@ -40,13 +40,24 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
 <table>
   <tr>
     <td style="vertical-align: top;">
-      <strong><a href="https://hermes.dio.me/certificates/O4D0PYMO.pdf">Fundamentos de Redes de Computadores</a></strong>
-      <p>Curso que fiz na Plataforma DIO para complementar meus conhecimentos sobre Segurança da Informação,
-        meu professor foi o <a href="https://github.com/cassiano-dio">Cassiano Ricardo de Oliveira Peres                                            
-          </a></p>
+      <strong>
+        <a href="https://hermes.dio.me/certificates/O4D0PYMO.pdf">Fundamentos de Redes de Computadores</a>
+      </strong>
+      <p>Realizei este curso na plataforma DIO para complementar meus conhecimentos em Segurança da Informação. Durante o aprendizado, aprofundei conceitos essenciais, como:</p>
+      <ul>
+        <li>Estrutura de redes: nós, links e arquiteturas;</li>
+        <li>Modelos de conexões: cliente, servidor e P2P;</li>
+        <li>Topologias de redes: anel, barramento, estrela e malha;</li>
+        <li>Tipos de redes: LAN, MAN, SAN, VLAN e WAN;</li>
+        <li>Protocolos de redes e suas camadas: modelos e OSI e TCP/IP.</li>
+        <li>Segurança de redes: funcionamento de Proxies e VPNs;</li>
+      </ul>
+      <p>O curso foi ministrado pelo professor 
+        <a href="https://github.com/cassiano-dio">Cassiano Ricardo de Oliveira Peres</a>.
+      </p>
     </td>
     <td style="vertical-align: top; width: 126px;">
-      <img src="https://github.com/user-attachments/assets/d99e052c-52a2-4e40-82fa-65abdf170a07" alt="image" width="126" style="margin-left: 20px;">
+      <img src="https://github.com/user-attachments/assets/d99e052c-52a2-4e40-82fa-65abdf170a07" alt="Certificado" width="126" style="margin-left: 20px;">
     </td>
   </tr>
 </table>
