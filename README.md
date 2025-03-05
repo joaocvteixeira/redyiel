@@ -1,130 +1,129 @@
-## 💭 De quem é esse perfil?
+## 💭 Who is this profile?
 
-Olá, sou **João Teixeira**! Tenho 23 anos, sou um acadêmico de **Defesa Cibernética** na [Estácio](estácio.br), e complemento meus estudos na [DIO](https://www.dio.me/)!  
+Hello, I'm **João Teixeira**! I'm 23 years old, a **Cyber Defense** student at [Estácio](estácio.br), and I complement my studies at [DIO](https://www.dio.me/)!  
 
-Atualmente estou aprovado nas disciplinas:
-- ⚖️ Direito Cibernético
-- 🌐 Fundamentos de Redes de Computadores
-- 🖥️ Gestão de Serviços de TI
-- 🛡️ Introdução à Segurança da Informação
-- 👥 Sistemas de Informação e Sociedade
+Currently, I have passed the following subjects:
+- ⚖️ Cyber Law
+- 🌐 Fundamentals of Computer Networks
+- 🖥️ IT Service Management
+- 🛡️ Introduction to Information Security
+- 👥 Information Systems and Society
 
-_Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓🤫_  
-*Você pode encontrar minha localização e minhas redes em baixo da minha foto de perfil.*
-
----
-
-## 📜 Códigos que esse perfil já fez?
-
-- 🎲 [Código de **Rolagem de Dados para RPG** em Python](https://github.com/joaocvteixeira/tormenta-20/blob/main/dados.py)
-- ♾️ [Código de **Checagem de Palíndromo** em Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/check_palindromo.py)
-- 🤝 [Código de **Concatenação Dados** em Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/concat_dados.py)
-- 🧮 [Código de **Operações Matématicas** em Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/ope_mat.py)
-- 🔄 [Código de **Repetição de Texto** em Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/repet_txt.py)
-- 🔢 [Código de **Checagem de Par ou Ímpar** em Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/par_impar.py)
-- 3️⃣ [Código de **Cáclculo de Média** em Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/media_tres.py)
+_Why am I in this career? I really liked Mr. Robot and Watch Dogs... 🤓🤫_  
+*You can find my location and my social networks below my profile picture.*
 
 ---
 
-## 🎓 Formações concluídas desse perfil?
+## 📜 Codes this profile has created?
+
+- 🎲 [**Dice Rolling for RPG** code in Python](https://github.com/joaocvteixeira/tormenta-20/blob/main/dados.py)
+- ♾️ [**Palindrome Check** code in Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/check_palindromo.py)
+- 🤝 [**Data Concatenation** code in Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/concat_dados.py)
+- 🧮 [**Mathematical Operations** code in Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/ope_mat.py)
+- 🔄 [**Text Repetition** code in Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/repet_txt.py)
+- 🔢 [**Even or Odd Check** code in Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/par_impar.py)
+- 3️⃣ [**Average Calculation** code in Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/media_tres.py)
+
+---
+
+## 🎓 Completed certifications of this profile?
 
 <table>
   <tr>
     <td style="vertical-align: top;">
       <strong>
-        <a href="https://hermes.dio.me/certificates/BKONMZIO.pdf">Formação GitHub Certification</a>
+        <a href="https://hermes.dio.me/certificates/BKONMZIO.pdf">GitHub Certification</a>
       </strong>
-      <p>Concluí esta formação na plataforma DIO, onde adquiri competências essenciais para o uso do Git e GitBash. Tornei-me proficiente no GitHub e suas diversas ferramentas e planos, como por exemplo:</p>
+      <p>I completed this certification on the DIO platform, where I acquired essential skills for using Git and GitBash. I became proficient in GitHub and its various tools and plans, such as:</p>
       <ul>
         <li>GitHub Codespaces</li>
         <li>GitHub Copilot</li>
       </ul>
-      <p>Além disso, aprendi os conceitos básicos de Python, que foram fundamentais para a entrega de projetos, e desenvolvi habilidades importantes, como:</p>
+      <p>Additionally, I learned the basics of Python, which were fundamental for project delivery, and developed important skills, such as:</p>
       <ul>
-        <li>Markdown para documentação e formatação de projetos.</li>
-        <li>Trabalho em equipe</li>
-        <li>Colaboração em projetos</li>
-        <li>Gestão de repositórios</li>
+        <li>Markdown for documentation and project formatting.</li>
+        <li>Teamwork</li>
+        <li>Collaboration on projects</li>
+        <li>Repository management</li>
       </ul>
-      <p>Docente: 
+      <p>Instructor: 
         <a href="https://github.com/alinealien">Aline Antunes</a>.
       </p>
     </td>
     <td style="vertical-align: top; width: 120px;">
-      <img src="https://github.com/user-attachments/assets/a39cbe30-c46a-42f6-8bf3-3e236c889015" alt="Certificado" width="120" style="margin-left: 20px;">
+      <img src="https://github.com/user-attachments/assets/a39cbe30-c46a-42f6-8bf3-3e236c889015" alt="Certificate" width="120" style="margin-left: 20px;">
     </td>
   </tr>
 </table>
 
-
 ---
 
-## 📚 Cursos concluídos desse perfil?
+## 📚 Completed courses of this profile?
 
 <table>
   <tr>
     <td style="vertical-align: top;">
       <strong>
-        <a href="https://hermes.dio.me/certificates/O4D0PYMO.pdf">Fundamentos de Redes de Computadores</a>
+        <a href="https://hermes.dio.me/certificates/O4D0PYMO.pdf">Fundamentals of Computer Networks</a>
       </strong>
-      <p>Realizei este curso na plataforma DIO para complementar meus conhecimentos em Segurança da Informação. Durante o aprendizado, aprofundei conceitos essenciais, como:</p>
+      <p>I completed this course on the DIO platform to complement my knowledge in Information Security. During the learning process, I deepened essential concepts, such as:</p>
       <ul>
-        <li>Estrutura de redes: nós, links e arquiteturas</li>
-        <li>Modelos de conexões: cliente, servidor e P2P</li>
-        <li>Topologias de redes: anel, barramento, estrela e malha</li>
-        <li>Tipos de redes: LAN, MAN, SAN, VLAN e WAN</li>
-        <li>Protocolos de redes e suas camadas: modelos e OSI e TCP/IP</li>
-        <li>Segurança de redes: funcionamento de Proxies e VPNs</li>
+        <li>Network structure: nodes, links, and architectures</li>
+        <li>Connection models: client, server, and P2P</li>
+        <li>Network topologies: ring, bus, star, and mesh</li>
+        <li>Types of networks: LAN, MAN, SAN, VLAN, and WAN</li>
+        <li>Network protocols and their layers: OSI and TCP/IP models</li>
+        <li>Network security: functioning of Proxies and VPNs</li>
       </ul>
-      <p>Docente:
+      <p>Instructor:
         <a href="https://github.com/cassiano-dio">Cassiano Ricardo de Oliveira Peres</a>.
       </p>
     </td>
     <td style="vertical-align: top; width: 120px;">
-      <img src="https://github.com/user-attachments/assets/d99e052c-52a2-4e40-82fa-65abdf170a07" alt="Certificado" width="120" style="margin-left: 20px;">
+      <img src="https://github.com/user-attachments/assets/d99e052c-52a2-4e40-82fa-65abdf170a07" alt="Certificate" width="120" style="margin-left: 20px;">
     </td>
   </tr>
 </table>  
 
 ---
 
-**👔 [Mais informações sobre as competências registradas no LinkedIn](https://www.linkedin.com/in/joaocvteixeira/details/skills/)**  
+**👔 [More information about the skills registered on LinkedIn](https://www.linkedin.com/in/joaocvteixeira/details/skills/)**  
 
 ---
 
-## 📅 Cursos e formações previstos para serem concluídos em 2025?
+## 📅 Courses and certifications planned to be completed by 2025?
 
-_Atualmente estou me dedicando a ser fullstack da área de Desenvolvimento Web! Minhas metas de estudos complementares enquanto me formo na faculdade para esse ano são:_
+_I am currently dedicating myself to becoming a full-stack Web Development professional! My complementary study goals while I graduate from college for this year are:_
 
-- ✅ Formação GitHub Certification
-- ✅ Curso Fundamentos de Redes de Computadores
-- ⏳ Curso Pensamento Computacional
-- ⏳ Formação Lógica de Programação
-- ⏳ Formação HTML Web Developer
-- ⏳ Formação CSS Developer
-- ⏳ Formação Javascript Developer
-- ⏳ Formação PHP Experience
-- ⏳ Formação SQL Database Experience
+- ✅ GitHub Certification
+- ✅ Fundamentals of Computer Networks course
+- ⏳ Computational Thinking course
+- ⏳ Programming Logic certification
+- ⏳ HTML Web Developer certification
+- ⏳ CSS Developer certification
+- ⏳ Javascript Developer certification
+- ⏳ PHP Experience certification
+- ⏳ SQL Database Experience certification
 
-_Lista em constante atualização_
+_List constantly being updated_
 
 ---
 
-## 🔎 Mais informações sobre esse perfil
+## 🔎 More information about this profile
 
-Experiências anteriores:
+Previous experiences:
 - 🎨 Design
-- 📩 Escritório
+- 📩 Office
 - 📢 Marketing
-- 💼 Vendas
-- 🗽 Tradução
-> [Mais informações sobre as experiências no LinkedIn](https://www.linkedin.com/in/joaocvteixeira/details/experience/)  
+- 💼 Sales
+- 🗽 Translation
+> [More information about the experiences on LinkedIn](https://www.linkedin.com/in/joaocvteixeira/details/experience/)  
 
-Situação atual _(03/2025)_:
-- 💚 Nenhuma deficiência ou incapacidade
-- 🚗 Atualmente conquistando a carteira de motorista na categoria B
+Current situation _(03/2025)_:
+- 💚 No disabilities or impairments
+- 🚗 Currently obtaining a category B driver's license
 
-Atividades e hobbies:
-- 🏋🏽 Academia
-- 🎮 Jogos de Computador
+Activities and hobbies:
+- 🏋🏽 Gym
+- 🎮 Computer Games
 - 🥊 Muay Thai
