@@ -1,4 +1,4 @@
-Versões do README disponíveis em [**Inglês**](https://github.com/joaocvteixeira/joaocvteixeira/blob/main/README.md) e [**Português Brasileiro**](https://github.com/joaocvteixeira/joaocvteixeira/blob/main/README-ptbr.md).
+> Versões do README disponíveis em [**Inglês**](https://github.com/joaocvteixeira/joaocvteixeira/blob/main/README.md) e [**Português Brasileiro**](https://github.com/joaocvteixeira/joaocvteixeira/blob/main/README-ptbr.md).
 
 ## 💭 De quem é esse perfil?
 
