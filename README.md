@@ -126,6 +126,6 @@ Current situation _(03/2025)_:
 - 🚗 Currently obtaining a category B driver's license
 
 Activities and hobbies:
-- 🏋🏽 Gym
 - 🎮 Computer Games
+- 🏋🏽 Gym
 - 🥊 Muay Thai
