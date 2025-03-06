@@ -119,12 +119,3 @@ Experiências anteriores:
 - 💼 Vendas
 - 🗽 Tradução
 > [Mais informações sobre as experiências no LinkedIn](https://www.linkedin.com/in/joaocvteixeira/details/experience/)  
-
-Situação atual _(03/2025)_:
-- 💚 Nenhuma deficiência ou incapacidade
-- 🚗 Atualmente conquistando a carteira de motorista na categoria B
-
-Atividades e hobbies:
-- 🏋🏽 Academia
-- 🎮 Jogos de Computador
-- 🥊 Muay Thai
