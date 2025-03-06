@@ -2,7 +2,7 @@
 
 ## 💭 De quem é esse perfil?
 
-Olá, sou **João Teixeira**! Tenho 23 anos, sou um acadêmico da área de TI e atualmente estou buscando conhecimentos e oportunidades na área de **Web Front-End**.  
+Olá, sou **João Teixeira**! Tenho 23 anos, sou um acadêmico da área de TI e atualmente estou buscando conhecimentos e oportunidades na área de **Front-End**.  
 
 [*Você pode encontrar minha localização e minhas redes em baixo da minha foto de perfil.*](https://github.com/joaocvteixeira)
 
