@@ -2,16 +2,8 @@
 
 ## 💭 De quem é esse perfil?
 
-Olá, sou **João Teixeira**! Tenho 23 anos, sou um acadêmico de **Defesa Cibernética** na [Estácio](estácio.br), e complemento meus estudos na [DIO](https://www.dio.me/)!  
+Olá, sou **João Teixeira**! Tenho 23 anos, sou um acadêmico da área de TI e atualmente estou buscando conhecimentos e oportunidades na área de **Web Front-End**.  
 
-Atualmente estou aprovado nas disciplinas:
-- ⚖️ Direito Cibernético
-- 🌐 Fundamentos de Redes de Computadores
-- 🖥️ Gestão de Serviços de TI
-- 🛡️ Introdução à Segurança da Informação
-- 👥 Sistemas de Informação e Sociedade
-
-_Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓🤫_  
 [*Você pode encontrar minha localização e minhas redes em baixo da minha foto de perfil.*](https://github.com/joaocvteixeira)
 
 ---
@@ -58,7 +50,6 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
   </tr>
 </table>
 
-
 ---
 
 ## 📚 Cursos concluídos desse perfil?
@@ -84,6 +75,31 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
     </td>
     <td style="vertical-align: top; width: 120px;">
       <img src="https://github.com/user-attachments/assets/d99e052c-52a2-4e40-82fa-65abdf170a07" alt="Certificado" width="120" style="margin-left: 20px;">
+    </td>
+  </tr>
+</table>  
+
+---
+
+## 👩🏻‍🎓 Disciplinas aprovadas desse perfil?
+
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <strong>
+        Tecnólogo de Defesa Cibernética
+      </strong>
+      <p>Atualmente estou me formando em Defesa Cibernética na Faculdade Estácio, e já fui aprovado nas seguintes disciplinas:</p>
+      <ul>
+        <li>Direito Cibernético</li>
+        <li>Fundamentos de Redes de Computadores</li>
+        <li>Gestão de Serviços de TI</li>
+        <li>Introdução à Segurança da Informação</li>
+        <li>Sistemas de Informação e Sociedade</li>
+      </ul>
+    </td>
+    <td style="vertical-align: top; width: 120px;">
+      <img src="https://github.com/user-attachments/assets/c778b814-c860-46f1-8494-275db0a5f787" alt="Estácio" width="120" style="margin-left: 20px;">
     </td>
   </tr>
 </table>  
