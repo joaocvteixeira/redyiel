@@ -94,24 +94,6 @@ _Porque estou nessa carreira? Eu gostei muito de Mr.Robot e Watch Dogs... 🤓�
 
 ---
 
-## 📅 Cursos e formações previstos para serem concluídos em 2025?
-
-_Atualmente estou me dedicando a ser fullstack da área de Desenvolvimento Web! Minhas metas de estudos complementares enquanto me formo na faculdade para esse ano são:_
-
-- ✅ Formação GitHub Certification
-- ✅ Curso Fundamentos de Redes de Computadores
-- ⏳ Curso Pensamento Computacional
-- ⏳ Formação Lógica de Programação
-- ⏳ Formação HTML Web Developer
-- ⏳ Formação CSS Developer
-- ⏳ Formação Javascript Developer
-- ⏳ Formação PHP Experience
-- ⏳ Formação SQL Database Experience
-
-_Lista em constante atualização_
-
----
-
 ## 🔎 Mais informações sobre esse perfil
 
 Experiências anteriores:
