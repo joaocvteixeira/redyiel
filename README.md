@@ -119,12 +119,3 @@ Previous experiences:
 - 💼 Sales
 - 🗽 Translation
 > [More information about the experiences on LinkedIn](https://www.linkedin.com/in/joaocvteixeira/details/experience/)  
-
-Current situation _(03/2025)_:
-- 💚 No disabilities or impairments
-- 🚗 Currently obtaining a category B driver's license
-
-Activities and hobbies:
-- 🏋🏽 Gym
-- 🎮 Computer Games
-- 🥊 Muay Thai
