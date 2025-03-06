@@ -93,24 +93,6 @@ _Why am I in this career? I really liked Mr. Robot and Watch Dogs... 🤓🤫_
 
 ---
 
-## 📅 Courses and certifications planned to be completed by 2025?
-
-_I am currently dedicating myself to becoming a full-stack Web Development professional! My complementary study goals while I graduate from college for this year are:_
-
-- ✅ GitHub Certification
-- ✅ Fundamentals of Computer Networks course
-- ⏳ Computational Thinking course
-- ⏳ Programming Logic certification
-- ⏳ HTML Web Developer certification
-- ⏳ CSS Developer certification
-- ⏳ Javascript Developer certification
-- ⏳ PHP Experience certification
-- ⏳ SQL Database Experience certification
-
-_List constantly being updated_
-
----
-
 ## 🔎 More information about this profile
 
 Previous experiences:
