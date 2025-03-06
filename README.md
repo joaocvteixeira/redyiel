@@ -2,7 +2,7 @@
 
 ## 💭 Whose profile is this?
 
-Hello, I'm **João Teixeira**! I'm 23 years old, an IT academic, and currently seeking knowledge and opportunities in the **Front-End** area.
+Hello, I'm **João Teixeira**! I'm 23 years old, an IT academic, and currently seeking knowledge and opportunities in the **Web Front-End** area.
 
 [*You can find my location and my networks below my profile picture.*](https://github.com/joaocvteixeira)
 
