@@ -1,5 +1,3 @@
-> Versions of the README available in [**English**](https://github.com/joaocvteixeira/joaocvteixeira/blob/main/README.md) and [**Brazilian Portuguese**](https://github.com/joaocvteixeira/joaocvteixeira/blob/main/README-ptbr.md).
-
 ## 💭 Whose profile is this?
 
 Hello, I'm **João Teixeira**! I'm 23 years old, an IT academic, and currently seeking knowledge and opportunities in the **Web Front-End** area.
