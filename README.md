@@ -18,7 +18,7 @@ Hello, I'm **João Teixeira**! I'm 23 years old, an IT academic, and currently s
 
 ---
 
-## 🎓 Completed education of this profile?
+## 🎓 Completed certifications of this profile?
 
 <table>
   <tr>
