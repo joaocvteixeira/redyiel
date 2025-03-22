@@ -6,18 +6,6 @@ Hello, I'm **João Teixeira**! I'm 23 years old, an IT academic, and currently s
 
 ---
 
-## 📜 Codes this profile has created?
-
-- 🎲 [**Dice Rolling for RPG** code in Python](https://github.com/joaocvteixeira/tormenta-20/blob/main/dados.py)
-- ♾️ [**Palindrome Check** code in Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/check_palindromo.py)
-- 🤝 [**Data Concatenation** code in Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/concat_dados.py)
-- 🧮 [**Mathematical Operations** code in Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/ope_mat.py)
-- 🔄 [**Text Repetition** code in Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/repet_txt.py)
-- 🔢 [**Even or Odd Check** code in Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/par_impar.py)
-- 3️⃣ [**Average Calculation** code in Python](https://github.com/joaocvteixeira/copilotando-python/blob/main/codigos_python_copilotados/media_tres.py)
-
----
-
 ## 🎓 Completed certifications of this profile?
 
 <table>
@@ -47,60 +35,6 @@ Hello, I'm **João Teixeira**! I'm 23 years old, an IT academic, and currently s
     </td>
   </tr>
 </table>
-
----
-
-## 📚 Completed courses of this profile?
-
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      <strong>
-        <a href="https://hermes.dio.me/certificates/O4D0PYMO.pdf">Fundamentals of Computer Networks</a>
-      </strong>
-      <p>I completed this course on the DIO platform to complement my knowledge in Information Security. During the learning process, I deepened essential concepts such as:</p>
-      <ul>
-        <li>Network structure: nodes, links, and architectures</li>
-        <li>Connection models: client, server, and P2P</li>
-        <li>Network topologies: ring, bus, star, and mesh</li>
-        <li>Types of networks: LAN, MAN, SAN, VLAN, and WAN</li>
-        <li>Network protocols and their layers: OSI and TCP/IP models</li>
-        <li>Network security: how Proxies and VPNs work</li>
-      </ul>
-      <p>Instructor:
-        <a href="https://github.com/cassiano-dio">Cassiano Ricardo de Oliveira Peres</a>.
-      </p>
-    </td>
-    <td style="vertical-align: top; width: 120px;">
-      <img src="https://github.com/user-attachments/assets/d99e052c-52a2-4e40-82fa-65abdf170a07" alt="Certificate" width="120" style="margin-left: 20px;">
-    </td>
-  </tr>
-</table>  
-
----
-
-## 👩🏻‍🎓 Approved subjects of this profile?
-
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      <strong>
-        Cybersecurity Technologist
-      </strong>
-      <p>I am currently studying Cybersecurity at Estácio College, and I have already been approved in the following subjects:</p>
-      <ul>
-        <li>Cyber Law</li>
-        <li>Fundamentals of Computer Networks</li>
-        <li>IT Service Management</li>
-        <li>Introduction to Information Security</li>
-        <li>Information Systems and Society</li>
-      </ul>
-    </td>
-    <td style="vertical-align: top; width: 120px;">
-      <img src="https://github.com/user-attachments/assets/c778b814-c860-46f1-8494-275db0a5f787" alt="Estácio" width="120" style="margin-left: 20px;">
-    </td>
-  </tr>
-</table>  
 
 ---
 
